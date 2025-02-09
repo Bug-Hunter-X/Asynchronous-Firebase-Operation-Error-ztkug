@@ -1,0 +1,2 @@
+# Firebase Asynchronous Operation Bug
+This repository demonstrates a common error when working with asynchronous operations in Firebase Realtime Database. The `bug.js` file shows incorrect handling of asynchronous data retrieval, which can lead to unexpected behavior or errors. The `bugSolution.js` file provides the corrected code with proper asynchronous handling.
